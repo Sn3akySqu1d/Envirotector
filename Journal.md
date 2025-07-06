@@ -1,7 +1,7 @@
 ---
 title: "Envirotector"
 author: "Boson (slack)"
-description: "TBC"
+description: "Envirotector is a compact, portable weather station that logs data to an SD card and displays temperature, air pressure and humidity data as well as the time on an OLED display."
 created_at: "2025-07-02"
 ---
  # Total Design Time: ~30 hours  
@@ -25,7 +25,7 @@ time: ~8 hours
 # PCB (4/7)
 
 Whilst designing the PCB, I often had to go back and change the symbols and footprints and iterate on the design. When arranging the components I made sure they had lots of clearance and put the sensors close together so that the hole in the case for the DHT11 can provide the ventilation for the BMP180.
-![alt text](image-1.png)
+![alt text](image-10.png)
 
 time: ~2 hours
 
