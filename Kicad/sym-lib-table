@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "OPL")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
   (lib (name "OLED")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/OLED_Symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "BMP")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/BMP.kicad_sym")(options "")(descr ""))
 )
