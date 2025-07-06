@@ -4,4 +4,5 @@
   (lib (name "OLED")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/OLED128-master/OLED128-master")(options "")(descr ""))
   (lib (name "LARGE")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/kicad-custom-components-library-master/kicad-custom-components-library-master/megasaturnv_custom_components.pretty")(options "")(descr ""))
   (lib (name "SPARK")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/SparkFun-Sensors.pretty")(options "")(descr ""))
+  (lib (name "BMP")(type "KiCad")(uri "C:/Users/Ellio/OneDrive/Desktop/KiCad_msalamon-master")(options "")(descr ""))
 )

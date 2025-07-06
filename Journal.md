@@ -25,7 +25,7 @@ time: ~8 hours
 # PCB (4/7)
 
 Whilst designing the PCB, I often had to go back and change the symbols and footprints and iterate on the design. When arranging the components I made sure they had lots of clearance and put the sensors close together so that the hole in the case for the DHT11 can provide the ventilation for the BMP180.
-![alt text](Images/image-10.png)
+![alt text](Images/image-9.png)
 
 time: ~2 hours
 
@@ -45,7 +45,7 @@ time: ~12 hours
 
 # After finishing
 
-I decided I will also solder a 3.7V lipo to the XIAO so it can be portable and added an auto-sleep feature to the screen aswell as a keychain hole. You can wake the screen by pushing in the rotary encoder.
+I decided I will also solder a 3.7V lipo to the XIAO so it can be portable and added an auto-sleep feature to the screen aswell as a keychain hole. You can wake the screen by pushing in the rotary encoder. I updated the BMP180 footprint and the case to accomadate the breakoutboard rather than just the small component.
 
 Summary dates and times:  
 2/7 2 hours  

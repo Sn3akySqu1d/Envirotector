@@ -87,7 +87,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -105,7 +105,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -123,7 +123,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -141,7 +141,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3899,7 +3899,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SPARK:BMP180"
+		(property "Footprint" "SPARK:Untitled"
 			(at 208.28 38.1 0)
 			(effects
 				(font
@@ -3926,16 +3926,16 @@
 				(hide yes)
 			)
 		)
-		(pin "5"
+		(pin "1"
 			(uuid "098a5b4b-387b-4a4a-a3bb-3858564c9655")
 		)
-		(pin "6"
+		(pin "4"
 			(uuid "0da5106a-b82a-416c-bd54-d668498d22c2")
 		)
 		(pin "2"
 			(uuid "797f76e6-3d7a-4b8f-8a0f-6478a70d7e44")
 		)
-		(pin "7"
+		(pin "3"
 			(uuid "e6958aee-e5b8-47d4-9717-239e63e288a4")
 		)
 		(pin ""
