@@ -1,4 +1,4 @@
-25863820653733976
+25869076401126905
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93974,6 +93974,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SDReader
+Untitled
+
+
+0
+0
+0
 SPARK
 1X03
 
@@ -94798,8 +94805,8 @@ Untitled
 
 
 0
-0
-0
+4
+4
 SPARK
 VCNL4000
 VCNL4000 FOOTPRINT
@@ -94814,6 +94821,13 @@ VL6180
 0
 12
 12
+SSD1306
+Untitled
+
+
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -103711,3 +103725,10 @@ Varistor VF
 0
 2
 2
+microphone
+GY-MAX4466
+
+
+0
+3
+3

@@ -1,8 +1,7 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
 J1,128x64OLED,1,OLED Display,
-J2,microSD_HC_Hirose_DM3AT-SF-PEJM5,1,Micro_SD_Card,
 SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
 U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
 U2,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,
 U3,RTC_DS3231,1,~,
-U4,BMP180,1,~,
+"U4, U5",Untitled,2,~,

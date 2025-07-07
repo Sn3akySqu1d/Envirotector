@@ -45,7 +45,7 @@ time: ~12 hours
 
 # After finishing
 
-I decided I will also solder a 3.7V lipo to the XIAO so it can be portable and added an auto-sleep feature to the screen aswell as a keychain hole. You can wake the screen by pushing in the rotary encoder. I updated the BMP180 footprint and the case to accomadate the breakoutboard rather than just the small component.
+I decided I will also solder a 3.7V lipo to the XIAO so it can be portable and added an auto-sleep feature to the screen aswell as a keychain hole. You can wake the screen by pushing in the rotary encoder. I updated the BMP180 footprint and the case to accomadate the breakoutboard rather than just the small component. I also did the same with the microSD card reader, changing it to the breakout board for ease of solderign and simplicity. I also made custom symbols and footprints for these based on the datasheets.
 
 Summary dates and times:  
 2/7 2 hours  
@@ -53,3 +53,7 @@ Summary dates and times:
 4/7 8 hours  
 5/7 5 hours
 6/7 5 hours
+![alt text](image.png)
+![alt text](image.png)
+![alt text](image.png)
+![alt text](image.png)
