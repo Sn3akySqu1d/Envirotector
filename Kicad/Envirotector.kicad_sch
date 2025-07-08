@@ -149,24 +149,6 @@
 						)
 					)
 				)
-				(pin input line
-					(at 0 0 0)
-					(length 2.54)
-					(name "3.3V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
 			(embedded_fonts no)
 		)
@@ -3726,9 +3708,6 @@
 		(pin "3"
 			(uuid "e6958aee-e5b8-47d4-9717-239e63e288a4")
 		)
-		(pin ""
-			(uuid "1ff28682-ed84-4b30-8ec9-f9901818ca00")
-		)
 		(instances
 			(project ""
 				(path "/3f64ad46-f639-46cb-abb5-8c4f16494329"
@@ -4126,7 +4105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "OPL:XIAO-RP2040-DIP"
 			(at 121.158 90.678 0)
 			(effects
 				(font
@@ -4199,6 +4178,73 @@
 			(project ""
 				(path "/3f64ad46-f639-46cb-abb5-8c4f16494329"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 138.43 71.12 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f76939d3-f016-4613-85e1-7615d2683b17")
+		(property "Reference" "#PWR09"
+			(at 134.62 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 142.24 71.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 138.43 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c9872d2-ad84-4c24-a591-e34afe2ea043")
+		)
+		(instances
+			(project ""
+				(path "/3f64ad46-f639-46cb-abb5-8c4f16494329"
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
