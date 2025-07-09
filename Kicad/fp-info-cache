@@ -1,4 +1,4 @@
-25869076460270007
+26032019615925540
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93974,6 +93974,657 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SCOTTOCOMPONENTS
+Battery_Holder_2032
+http://www.keyelco.com/product-pdf.cfm?p=726
+CR2032 BR2032 BatteryHolder Battery
+0
+2
+2
+SCOTTOCOMPONENTS
+Button_MJTP1243
+tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
+PHAP3362 6mm tact sw THT
+0
+2
+2
+SCOTTOCOMPONENTS
+Button_MJTP1250
+tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
+PHAP3362A 6mm tact sw THT
+0
+2
+2
+SCOTTOCOMPONENTS
+Button_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+SCOTTOCOMPONENTS
+Capacitor_0402
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+SCOTTOCOMPONENTS
+Capacitor_0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+SCOTTOCOMPONENTS
+Connector_1x02_JST-PH
+
+
+0
+4
+4
+SCOTTOCOMPONENTS
+Diode_DO-35
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+SCOTTOCOMPONENTS
+Diode_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+SCOTTOCOMPONENTS
+ESD_SOT-23-6
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+SCOTTOCOMPONENTS
+Encoder_Ano
+
+
+0
+6
+6
+SCOTTOCOMPONENTS
+Fuse_0603
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+SCOTTOCOMPONENTS
+Joystick_2765
+
+
+0
+6
+6
+SCOTTOCOMPONENTS
+LED_0805
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED
+0
+2
+2
+SCOTTOCOMPONENTS
+LED_1206
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+SCOTTOCOMPONENTS
+LED_SK6812MINI
+
+
+0
+4
+4
+SCOTTOCOMPONENTS
+LED_WS2812B
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+SCOTTOCOMPONENTS
+OLED_128x32
+
+
+0
+4
+4
+SCOTTOCOMPONENTS
+OLED_128x64
+
+
+0
+4
+4
+SCOTTOCOMPONENTS
+Package_LQFP-48_7x7mm_P0.5
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+SCOTTOCOMPONENTS
+Resistor_0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+SCOTTOCOMPONENTS
+Resistor_0805
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+SCOTTOCOMPONENTS
+Resistor_1206
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+SCOTTOCOMPONENTS
+Switch_K3-1204D
+
+
+0
+3
+3
+SCOTTOCOMPONENTS
+Switch_K3-1204D-L
+
+
+0
+3
+3
+SCOTTOCOMPONENTS
+Switch_MSK12C02
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+SCOTTOCOMPONENTS
+Switch_SSAL220100
+SPDT 10mA @ 5VDC 5V On-On SMD toggle switch
+
+0
+5
+4
+SCOTTOCOMPONENTS
+TRRS_PJ-320A
+
+
+0
+4
+4
+SCOTTOCOMPONENTS
+USB_C_918-418K2024S40000
+
+
+0
+16
+11
+SCOTTOCOMPONENTS
+USB_C_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+SCOTTOCOMPONENTS
+USB_C_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+SCOTTOCOMPONENTS
+Voltage_SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+SCOTTOMX
+MX_PCB
+MX keyswitch PCB Mount
+MX Keyboard Keyswitch Switch PCB Cutout
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.00u
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.00u_Reversable
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+4
+2
+SCOTTOMX
+MX_PCB_1.25u
+MX keyswitch PCB Mount Keycap 1.25u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.25u_90deg
+MX keyswitch PCB Mount Keycap 1.25u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.25u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.50u
+MX keyswitch PCB Mount Keycap 1.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.50u_90deg
+MX keyswitch PCB Mount Keycap 1.50u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.75u
+MX keyswitch PCB Mount Keycap 1.75u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u
+0
+2
+2
+SCOTTOMX
+MX_PCB_1.75u_90deg
+MX keyswitch PCB Mount Keycap 1.75u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.75u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.00u
+MX keyswitch PCB Mount Keycap 2.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.00u_90deg
+MX keyswitch PCB Mount Keycap 2.00u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.25u
+MX keyswitch PCB Mount Keycap 2.25u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.25u_90deg
+MX keyswitch PCB Mount Keycap 2.25u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.25u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.50u
+MX keyswitch PCB Mount Keycap 2.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.50u
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.50u_90deg
+MX keyswitch PCB Mount Keycap 2.50u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.50u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.75u
+MX keyswitch PCB Mount Keycap 2.75u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.75u
+0
+2
+2
+SCOTTOMX
+MX_PCB_2.75u_90deg
+MX keyswitch PCB Mount Keycap 2.75u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.75u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_3.00u
+MX keyswitch PCB Mount Keycap 3.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 3.00u
+0
+2
+2
+SCOTTOMX
+MX_PCB_3.00u_90deg
+MX keyswitch PCB Mount Keycap 3.00u 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 3.00u 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_4.00u
+MX keyswitch PCB Mount Keycap 4.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 4.00u
+0
+2
+2
+SCOTTOMX
+MX_PCB_4.50u
+MX keyswitch PCB Mount Keycap 4.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 4.50u
+0
+2
+2
+SCOTTOMX
+MX_PCB_5.50u
+MX keyswitch PCB Mount Keycap 5.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 5.50u
+0
+2
+2
+SCOTTOMX
+MX_PCB_6.00u
+MX keyswitch PCB Mount Keycap 6.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.00u
+0
+2
+2
+SCOTTOMX
+MX_PCB_6.00u_Offset
+MX keyswitch PCB Mount Keycap 6.00u Offset
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.00u Offset
+0
+2
+2
+SCOTTOMX
+MX_PCB_6.25u
+MX keyswitch PCB Mount Keycap 6.25u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.25u
+0
+2
+2
+SCOTTOMX
+MX_PCB_6.50u
+MX keyswitch PCB Mount Keycap 6.50u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.50u
+0
+2
+2
+SCOTTOMX
+MX_PCB_7.00u
+MX keyswitch PCB Mount Keycap 7.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 7.00u
+0
+2
+2
+SCOTTOMX
+MX_PCB_ISOEnter
+MX keyswitch PCB Mount Keycap ISOEnter
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter
+0
+2
+2
+SCOTTOMX
+MX_PCB_ISOEnter_90deg
+MX keyswitch PCB Mount Keycap ISOEnter 90deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 90deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_ISOEnter_180deg
+MX keyswitch PCB Mount Keycap ISOEnter 180deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 180deg
+0
+2
+2
+SCOTTOMX
+MX_PCB_ISOEnter_270deg
+MX keyswitch PCB Mount Keycap ISOEnter 270deg
+MX Keyboard Keyswitch Switch PCB Cutout Keycap ISOEnter 270deg
+0
+2
+2
+SCOTTOMX
+MX_Plate
+MX keyswitch Plate Mount
+MX Keyboard Keyswitch Switch Plate Cutout
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.00u
+MX keyswitch Plate Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.25u
+MX keyswitch Plate Mount Keycap 1.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.25u_90deg
+MX keyswitch Plate Mount Keycap 1.25u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.25u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.50u
+MX keyswitch Plate Mount Keycap 1.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.50u_90deg
+MX keyswitch Plate Mount Keycap 1.50u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.50u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.75u
+MX keyswitch Plate Mount Keycap 1.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u
+0
+2
+2
+SCOTTOMX
+MX_Plate_1.75u_90deg
+MX keyswitch Plate Mount Keycap 1.75u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.75u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.00u
+MX keyswitch Plate Mount Keycap 2.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.00u_90deg
+MX keyswitch Plate Mount Keycap 2.00u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.00u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.25u
+MX keyswitch Plate Mount Keycap 2.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.25u_90deg
+MX keyswitch Plate Mount Keycap 2.25u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.25u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.50u
+MX keyswitch Plate Mount Keycap 2.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.50u_90deg
+MX keyswitch Plate Mount Keycap 2.50u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.50u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.75u
+MX keyswitch Plate Mount Keycap 2.75u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u
+0
+2
+2
+SCOTTOMX
+MX_Plate_2.75u_90deg
+MX keyswitch Plate Mount Keycap 2.75u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 2.75u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_3.00u
+MX keyswitch Plate Mount Keycap 3.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u
+0
+2
+2
+SCOTTOMX
+MX_Plate_3.00u_90deg
+MX keyswitch Plate Mount Keycap 3.00u 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 3.00u 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_4.00u
+MX keyswitch Plate Mount Keycap 4.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.00u
+0
+2
+2
+SCOTTOMX
+MX_Plate_4.50u
+MX keyswitch Plate Mount Keycap 4.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 4.50u
+0
+2
+2
+SCOTTOMX
+MX_Plate_5.50u
+MX keyswitch Plate Mount Keycap 5.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 5.50u
+0
+2
+2
+SCOTTOMX
+MX_Plate_6.00u
+MX keyswitch Plate Mount Keycap 6.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u
+0
+2
+2
+SCOTTOMX
+MX_Plate_6.00u_Offset
+MX keyswitch Plate Mount Keycap 6.00u Offset
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.00u Offset
+0
+2
+2
+SCOTTOMX
+MX_Plate_6.25u
+MX keyswitch Plate Mount Keycap 6.25u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.25u
+0
+2
+2
+SCOTTOMX
+MX_Plate_6.50u
+MX keyswitch Plate Mount Keycap 6.50u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 6.50u
+0
+2
+2
+SCOTTOMX
+MX_Plate_7.00u
+MX keyswitch Plate Mount Keycap 7.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 7.00u
+0
+2
+2
+SCOTTOMX
+MX_Plate_ISOEnter
+MX keyswitch Plate Mount Keycap ISOEnter
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter
+0
+2
+2
+SCOTTOMX
+MX_Plate_ISOEnter_90deg
+MX keyswitch Plate Mount Keycap ISOEnter 90deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 90deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_ISOEnter_180deg
+MX keyswitch Plate Mount Keycap ISOEnter 180deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 180deg
+0
+2
+2
+SCOTTOMX
+MX_Plate_ISOEnter_270deg
+MX keyswitch Plate Mount Keycap ISOEnter 270deg
+MX Keyboard Keyswitch Switch Plate Cutout Keycap ISOEnter 270deg
+0
+2
+2
 SDReader
 Untitled
 
