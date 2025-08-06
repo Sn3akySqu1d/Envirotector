@@ -100,7 +100,7 @@ void setup() {
   pinMode(ENC_SW, INPUT_PULLUP);
   
   for(int i=0; i<DATA_POINTS; i++) {
-    dataHistory[i] = {0,0,0, DateTime(0)};
+    dataHistory[i] = {0,0,0, DateTime()};
   }
   
   if (!SD.exists("datalog.csv")) {
@@ -285,12 +285,16 @@ void drawTimeScreen(DateTime now) {
   display.print(':');
   if(now.minute() < 10) display.print('0');
   display.print(now.minute());
-  
+  display.print(':');
+  if(now.second() < 10) display.print('0');
+  display.print(now.second());
+
   display.setTextSize(1);
   display.setCursor(0, 55);
   const char* days[] = {"Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"};
   display.print(days[now.dayOfTheWeek()]);
 }
+
 
 void drawTempScreen(float temp) {
   display.setTextSize(2);

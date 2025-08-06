@@ -7,13 +7,15 @@ Features:
 Saves recorded data to an SD card every 10 minuites for up to 1 week 
 Screen automaticlaly sleeps to save power  
 The last screen has a graph that displays the sensor readings over time for the last 24 hours.
-
+![alt text](Images/image-16.png)
 ![alt text](Images/image-7.png)
 ![alt text](Images/image-8.png)
 ![alt text](Images/image-9.png)
 ![alt text](Images/image-2.png)
 ![alt text](Images/image-3.png)
-![alt text](Images/image-4.png)  
+![alt text](Images/image-15.png)
+![alt text](Images/image-4.png)
+![alt text](Images/image-14.png)
 
 [BOM](BOM.csv)
 # BOM  

@@ -5,6 +5,7 @@ description: "Envirotector is a compact, portable weather station that logs data
 created_at: "2025-07-02"
 ---
  # Total Design Time: ~30 hours  
+ # Total Build Time: ~4 hours
 
  # Sourcing Components (2/7)
 
@@ -53,3 +54,14 @@ Summary dates and times:
 4/7 8 hours  
 5/7 5 hours
 6/7 5 hours
+
+# Build ---------------------------------------------------
+5/8/25  ~4 hours
+Firstly i soldered all the headers to the components and set up a breadboard prototype with all of the components so i could test they workked and make changes to the firmware before soldering everything to the pcb. that way i can also easily tell if something is a component/pcb/software issue. 
+![alt text](Images/image-10.png)    
+Spent a while debugging a phhantom i2c address registering at 0x01 and oled not working and eventually realised this was because bmp180 was connected to 5v instead of 3.3v. After finsihing soldering the components to the pcb nothign worked. After some debugging and running an i2c scanner i foudn that none of the devices were registering.
+![alt text](Images/image-11.png)  
+I was terrified that this was a pcb issue for a bit but then realised that for some reason the pads on the pcb were reversed compared to the pins on the bmp180 sensor so it was blocking the sda/scl lines. After painfully desoldering it and rerunning the i2c scanner, I got the oled display, rtc and humidity sensor working on the pcb. 
+![alt text](Images/image-12.png)  
+Next i resldered the bmp180 backwards and and after confirming everything now works i moved to fusion to redesign the case to accomodate the reveresed bmp180 as it goes over the edge of the pcb now. After a small fix to the wake function of the firmware and some text size changes, the project is working correctly. I then printed the case and test fitted to the pcb. I had to make a few iteratrions of the top case as i dont own calipers os measurements were a bit difficult, but I eventually got a lid that fits the components well. Next I cut the pins on th eback of the pcb so it would fit nicely in the case and glued the lid to the bottom, completing the physical build.
+![alt text](Images/image-13.png)
