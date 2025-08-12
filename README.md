@@ -34,3 +34,5 @@ The last screen has a graph that displays the sensor readings over time for the 
 | PCB                        | [https://jlcpcb.com](https://jlcpcb.com)                                                                       | 1.50        |
 | Case                       | Printed with my own 3D printer                                                                                 | 0.00        |
  total: 44.91 usd
+
+https://youtu.be/wm6Xy655hNI?si=NdGpvTqHyldkWJcv
